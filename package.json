@@ -2,7 +2,7 @@
   "name": "decorouting",
   "version": "0.0.4",
   "description": "An express routing implemented by decorators.",
-  "main": "src/index.ts",
+  "main": "src/index.js",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
